@@ -1,6 +1,10 @@
 # Colombia Regulatory Documents
 
-Markdown versions of regulatory documents for Colombia, extracted from the DBNSA Regulatory Repository.
+Markdown versions of regulatory documents for Colombia, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
+
+## Documents
+
+*Document index will be updated once files are processed.*
 
 ## Source
 
